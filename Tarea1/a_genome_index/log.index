@@ -180,7 +180,7 @@ Getting block 5 of 7
   Block accumulator loop time: 00:00:00
   Sorting block of length 599584
   (Using difference cover)
-  Sorting block time: 00:00:01
+  Sorting block time: 00:00:00
 Returning block of 599585
 Getting block 6 of 7
   Reserving size (670026) for bucket
@@ -304,7 +304,7 @@ Calculating bucket sizes
   80%
   90%
   100%
-  Binary sorting into buckets time: 00:00:01
+  Binary sorting into buckets time: 00:00:00
 Splitting and merging
   Splitting and merging time: 00:00:00
 Avg bucket size: 510495 (target: 670025)
@@ -329,7 +329,7 @@ Getting block 1 of 7
   Block accumulator loop time: 00:00:00
   Sorting block of length 639080
   (Using difference cover)
-  Sorting block time: 00:00:00
+  Sorting block time: 00:00:01
 Returning block of 639081
 Getting block 2 of 7
   Reserving size (670026) for bucket
@@ -389,7 +389,7 @@ Getting block 4 of 7
   Block accumulator loop time: 00:00:00
   Sorting block of length 574001
   (Using difference cover)
-  Sorting block time: 00:00:01
+  Sorting block time: 00:00:00
 Returning block of 574002
 Getting block 5 of 7
   Reserving size (670026) for bucket
@@ -426,7 +426,7 @@ Getting block 6 of 7
   80%
   90%
   100%
-  Block accumulator loop time: 00:00:00
+  Block accumulator loop time: 00:00:01
   Sorting block of length 352878
   (Using difference cover)
   Sorting block time: 00:00:00
